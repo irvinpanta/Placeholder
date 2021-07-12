@@ -1,0 +1,10 @@
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Placeholder\bin\Debug\Placeholder.exe.config
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Placeholder\bin\Debug\Placeholder.exe
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Placeholder\bin\Debug\Placeholder.pdb
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Placeholder\bin\Debug\Placeholder.xml
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Placeholder\obj\Debug\Placeholder.Placeholder.resources
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Placeholder\obj\Debug\Placeholder.Resources.resources
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Placeholder\obj\Debug\Placeholder.vbproj.GenerateResource.Cache
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Placeholder\obj\Debug\Placeholder.exe
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Placeholder\obj\Debug\Placeholder.xml
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\ProjectPlaceholder\Placeholder\obj\Debug\Placeholder.pdb
